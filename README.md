@@ -1,3 +1,1 @@
-# GitHub Practice Repository
-
-Practicing GitHub workflow.
+# github-practice-demo
